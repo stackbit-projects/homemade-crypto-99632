@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome toHomemade Crypto
+    title: "Welcome to\_ \_ \_Homemade Crypto"
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
